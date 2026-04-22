@@ -2,7 +2,7 @@
 
 Ce dépôt contient **2 scripts Python** pour charger un dataset CSV (inflation en Tunisie), **nettoyer des valeurs de pourcentage** (ex: `5,30%`, `~6,5%`, `N/A`) et **générer un graphique PNG**.
 
-Les graphiques incluent la mention **“Powered by: Ba7ath Project Team”**.
+Les scripts sont **“Créés par: Ba7ath Project Team”**.
 
 ## Scripts
 
